@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMan", "WebMan\WebMan.csproj", "{D23B7BB6-FD45-4DCB-A335-8C19E4410EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23B7BB6-FD45-4DCB-A335-8C19E4410EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23B7BB6-FD45-4DCB-A335-8C19E4410EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23B7BB6-FD45-4DCB-A335-8C19E4410EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23B7BB6-FD45-4DCB-A335-8C19E4410EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5784112D-AB62-4417-8A13-55F0CFA8FF7A}
+	EndGlobalSection
+EndGlobal
